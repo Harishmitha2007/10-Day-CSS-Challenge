@@ -1,0 +1,18 @@
+
+h1 {
+    color:blue;
+    text-align: center;
+    font-size: 36px;
+}
+
+
+p {
+    color:gray;
+    text-align: justify;
+    font-size: 18px;
+}
+a {
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+} 
