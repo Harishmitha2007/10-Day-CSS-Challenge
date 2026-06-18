@@ -3,7 +3,7 @@
 ## Day 1 - CSS Basics
 
 ### Live Demo
-(Will be added after deployment)
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/
 
 ### Completed Tasks
 - Day 1: CSS Basics
