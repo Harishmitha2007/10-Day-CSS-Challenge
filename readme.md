@@ -16,3 +16,14 @@ https://harishmitha2007.github.io/10-Day-CSS-Challenge/day-2/
 
 ### Completed Tasks
 -Day 2:Box model
+
+## Day 3 – Flexbox Fun
+
+### Live Demo
+
+
+### Features
+- Flexbox navigation bar
+- Items evenly spaced
+- Responsive design using flex-wrap
+- Hover effect on navigation items
