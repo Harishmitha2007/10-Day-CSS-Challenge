@@ -20,6 +20,7 @@ https://harishmitha2007.github.io/10-Day-CSS-Challenge/day-2/
 ## Day 3 – Flexbox Fun
 
 ### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-3
 
 
 ### Features
