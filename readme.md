@@ -28,3 +28,15 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-3
 - Items evenly spaced
 - Responsive design using flex-wrap
 - Hover effect on navigation items
+
+  # Day 4 – Grid Layout
+
+## Features
+- CSS Grid layout
+- 3×3 photo gallery
+- Equal-sized image boxes
+- Uniform spacing using gap
+- Responsive design
+
+### Live Demo
+https://yourusername.github.io/10-Day-CSS-Challenge/day-4/
