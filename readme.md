@@ -39,4 +39,4 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-3
 - Responsive design
 
 ### Live Demo
-https://yourusername.github.io/10-Day-CSS-Challenge/day-4/
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-4
