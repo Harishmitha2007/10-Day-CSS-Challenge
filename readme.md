@@ -40,3 +40,16 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-3
 
 ### Live Demo
 https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-4
+
+
+## Day 5 – Hover & Transition Effects
+
+### Live Demo
+https://yourusername.github.io/10-Day-CSS-Challenge/
+
+### Features
+- Smooth hover transitions
+- Background color change effect
+- Scale-up animation on hover
+- Slight rotation effect on hover
+- Responsive button layout
