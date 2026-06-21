@@ -45,7 +45,7 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-4
 ## Day 5 – Hover & Transition Effects
 
 ### Live Demo
-https://yourusername.github.io/10-Day-CSS-Challenge/
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-5
 
 ### Features
 - Smooth hover transitions
