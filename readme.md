@@ -57,6 +57,7 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-5
 # Day 6 – Positioning
   
 ### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-6
 
 ## Features
 - Full-width hero section
