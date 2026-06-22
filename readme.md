@@ -7,7 +7,7 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/
 
 ### Completed Tasks
 - Day 1: CSS Basics
-- 
+  
 ## Day 2 – Box Model
 
 
@@ -15,7 +15,7 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/
 https://harishmitha2007.github.io/10-Day-CSS-Challenge/day-2/
 
 ### Completed Tasks
--Day 2:Box model
+Day 2:Box model
 
 ## Day 3 – Flexbox Fun
 
@@ -53,3 +53,14 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-5
 - Scale-up animation on hover
 - Slight rotation effect on hover
 - Responsive button layout
+
+# Day 6 – Positioning
+  
+### Live Demo
+
+## Features
+- Full-width hero section
+- Background image
+- Centered text overlay
+- Styled button
+- Uses CSS positioning techniques
