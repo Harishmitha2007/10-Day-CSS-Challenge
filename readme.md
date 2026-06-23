@@ -69,6 +69,7 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-6
 # Day 7 – Pseudo-classes & Pseudo-elements
 
 ### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-7
 
 ## Features
 - Uses `::before` to display star (★) icons instead of default bullets.
