@@ -65,3 +65,11 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-6
 - Centered text overlay
 - Styled button
 - Uses CSS positioning techniques
+
+# Day 7 – Pseudo-classes & Pseudo-elements
+
+### Live Demo
+
+## Features
+- Uses `::before` to display star (★) icons instead of default bullets.
+- Changes text color when hovering over list items using `:hover`.
