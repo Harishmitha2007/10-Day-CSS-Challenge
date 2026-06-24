@@ -74,3 +74,15 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-7
 ## Features
 - Uses `::before` to display star (★) icons instead of default bullets.
 - Changes text color when hovering over list items using `:hover`.
+
+# Day 8 – Responsive Design
+
+### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-8
+
+## Features
+- Uses Flexbox to create a two-column layout.
+- Displays text on the left and an image on the right on desktop screens.
+- Uses a media query for responsive design.
+- Stacks the content vertically on smaller screens.
+- Image automatically adjusts to fit different screen sizes.
