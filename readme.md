@@ -86,3 +86,16 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-8
 - Uses a media query for responsive design.
 - Stacks the content vertically on smaller screens.
 - Image automatically adjusts to fit different screen sizes.
+
+# Day 9 – Animations
+
+### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-9
+
+## Features
+- Uses CSS animations to create a smooth visual effect.
+- Demonstrates the use of the `@keyframes` rule.
+- Animation runs continuously without user interaction.
+- Creates a bouncing ball effect using `transform: translateY()`.
+- Uses the `animation` property to control speed and repetition.
+- Simple and responsive design that works on different screen sizes.
