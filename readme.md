@@ -99,3 +99,17 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-9
 - Creates a bouncing ball effect using `transform: translateY()`.
 - Uses the `animation` property to control speed and repetition.
 - Simple and responsive design that works on different screen sizes.
+
+# Day 10 – Mini Project (Portfolio Section)
+
+## Live Demo
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day10
+
+## Features
+- Displays a personal profile picture in a clean card layout.
+- Shows the user's name and a short professional description.
+- Includes a "Contact Me" button for easy communication.
+- Responsive design that adapts to different screen sizes.
+- Centered layout with a modern and professional appearance.
+- Smooth hover effects on the button for better user interaction.
+- Built using HTML and CSS with a simple, user-friendly design.
